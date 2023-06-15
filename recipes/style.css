@@ -1,0 +1,41 @@
+body {
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: burlywood;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 60px;
+}
+
+h4 {
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 100px;
+}
+
+.description {
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    border-radius: 10%;
+}
