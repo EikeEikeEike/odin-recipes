@@ -1,17 +1,18 @@
 body {
-    background-color: bisque;
+    background-color: #121212;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    color: white;
 }
 
 h1 {
     text-align: center;
+    color: white;
 }
 
 
 .recipe-list {
     text-align: center;
-    
+    color: white;
 }
 
 #recipe-list {
@@ -21,10 +22,12 @@ h1 {
     border: 1px solid;
     border-radius: 16px;
     box-shadow: 3px 3px grey;
+    color: white;
 }
 
 a {
     color: black;
+    color: white;
 }
 
 a:hover {
